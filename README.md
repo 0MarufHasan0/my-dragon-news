@@ -4,8 +4,7 @@ A modern full-stack news web application built with Next.js, Tailwind CSS, Daisy
 🌐 Live Demo
 👉 Live Site:
 🔗 https://my-dragon-news-livid.vercel.app
-Deployed on Vercel, which provides fast global performance, automatic deployment, and serverless scaling for modern apps. �
-BedCave +1
+Deployed on Vercel, which provides fast global performance, automatic deployment, and serverless scaling for modern apps
 
 ## 🚀 Overview
 The Dragon News is a fully responsive news platform where users can:
