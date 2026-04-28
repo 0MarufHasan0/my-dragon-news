@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The Dragon News
+A modern full-stack news web application built with Next.js, Tailwind CSS, DaisyUI, MongoDB, and Better Auth.
 
-## Getting Started
+🌐 Live Demo
+👉 Live Site:
+🔗 https://my-dragon-news-livid.vercel.app/category/01⁠�
+Deployed on Vercel, which provides fast global performance, automatic deployment, and serverless scaling for modern apps. �
+BedCave +1
 
-First, run the development server:
+## 🚀 Overview
+The Dragon News is a fully responsive news platform where users can:
+Browse categorized news (Breaking, Sports, International, etc.)
+Read detailed articles
+Login & register securely
+Use social login (Google & GitHub)
+Explore trending and latest news
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧩 Tech Stack
+Frontend: Next.js (App Router)
+Styling: Tailwind CSS + DaisyUI
+Backend: Next.js API Routes
+Database: MongoDB
+Authentication: Better Auth
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔐 Authentication
+Email & Password login
+Google login
+GitHub login
+Secure session handling
+Protected routes
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🎨 Design & UI
+From your screenshots, your design includes:
+📰 Clean newspaper-style header with breaking news ticker
+📂 Sidebar category filtering
+🧾 Card-based news layout (author, rating, views)
+🔐 Minimal login & register UI
+🎯 Highlighted active category (like Sports)
+Overall: modern + clean + readable UX ✔️
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Features
+✅ Category-based news filtering
+✅ Dynamic news rendering
+✅ Authentication system (Better Auth)
+✅ Responsive design
+✅ MongoDB integration
+✅ Social login support
