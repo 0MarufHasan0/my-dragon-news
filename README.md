@@ -1,46 +1,57 @@
-The Dragon News
-A modern full-stack news web application built with Next.js, Tailwind CSS, DaisyUI, MongoDB, and Better Auth.
+# 📰 The Dragon News
 
-🌐 Live Demo
-👉 Live Site:
-🔗 https://my-dragon-news-livid.vercel.app
-Deployed on Vercel, which provides fast global performance, automatic deployment, and serverless scaling for modern apps
+> A modern full-stack news platform built with **Next.js, TypeScript, Tailwind CSS, DaisyUI, MongoDB, and Better Auth.**
 
-## 🚀 Overview
-The Dragon News is a fully responsive news platform where users can:
-Browse categorized news (Breaking, Sports, International, etc.)
-Read detailed articles
-Login & register securely
-Use social login (Google & GitHub)
-Explore trending and latest news
+<div align="center">
 
-## 🧩 Tech Stack
-Frontend: Next.js (App Router)
-Styling: Tailwind CSS + DaisyUI
-Backend: Next.js API Routes
-Database: MongoDB
-Authentication: Better Auth
+### 🌐 Live Demo
 
-## 🔐 Authentication
-Email & Password login
-Google login
-GitHub login
-Secure session handling
-Protected routes
+<a href="https://my-dragon-news-livid.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Site-Visit%20Now-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-## 🎨 Design & UI
-From your screenshots, your design includes:
-📰 Clean newspaper-style header with breaking news ticker
-📂 Sidebar category filtering
-🧾 Card-based news layout (author, rating, views)
-🔐 Minimal login & register UI
-🎯 Highlighted active category (like Sports)
-Overall: modern + clean + readable UX ✔️
+<a href="https://github.com/0MarufHasan0">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## 📁 Features
-✅ Category-based news filtering
-✅ Dynamic news rendering
-✅ Authentication system (Better Auth)
-✅ Responsive design
-✅ MongoDB integration
-✅ Social login support
+</div>
+
+---
+
+## ✨ Overview
+
+**The Dragon News** is a modern, responsive, full-stack news web application where users can discover, read, and explore news from different categories.
+
+The application combines a clean newspaper-inspired interface with modern web technologies, secure authentication, dynamic content rendering, and MongoDB data management.
+
+### What users can do
+
+* 📰 Browse the latest news
+* 🔥 Explore trending and breaking news
+* 📂 Filter news by category
+* 🌍 Explore international news
+* ⚽ Browse sports news
+* 📖 Read detailed news articles
+* 🔐 Create an account and log in
+* 🔑 Authenticate using Google or GitHub
+* 📱 Use the application seamlessly on mobile, tablet, and desktop
+
+---
+
+## 🚀 Live Demo
+
+**Live Website:**
+👉 https://my-dragon-news-livid.vercel.app
+
+The application is deployed on **Vercel** for fast global delivery and seamless deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+| Technology | Purpose                    |
+| ---------- | -------------------------- |
+| ⚛️ Next.js | Full-stack React framework |
+| 📘 Type    |                            |
